@@ -4,6 +4,7 @@ body{
 	color: #fff;
 	margin-left: 10%;
 	margin-right:10%;
+	font-family: 'Courgette', cursive;
 }
 h1{
 color:	#000080;
@@ -25,3 +26,13 @@ figure{
 	text-align: center;
 
 }
+ 
+ .tamanho{
+ 	width: 40%;
+
+ }
+
+ 
+
+
+
