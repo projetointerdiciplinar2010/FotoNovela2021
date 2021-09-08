@@ -32,7 +32,26 @@ figure{
 
  }
 
- 
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse:		#363636;
+  width: 35%;
+}
+
+td, th {
+  border: 10px solid 	#363636;
+  text-align: left;
+  padding: 15px;
+  color:	#0000CD
+  
+  
+}
+
+tr:nth-child(even) {
+  background-color:		#363636;
+}
+
 
 
 
